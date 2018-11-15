@@ -1,0 +1,83 @@
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Pisti\Pisti\bin\Debug\Pisti.exe.config
+C:\Users\MONSTER\Desktop\Pisti\Pisti\bin\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Pisti\Pisti\bin\Debug\Pisti.pdb
+C:\Users\MONSTER\Desktop\Pisti\Pisti\bin\Debug\MySql.Data.dll
+C:\Users\MONSTER\Desktop\Pisti\Pisti\bin\Debug\MySql.Data.xml
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.pdb
+C:\Users\MONSTER\Desktop\Pisti\Pisti\obj\Debug\Pisti.Pisti.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\Pisti.exe.config
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\Pisti.pdb
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\MySql.Data.xml
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Menu.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Pisti.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.pdb
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Achievements.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Leaderboard.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.InputName.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\Pisti.exe.config
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\Pisti.exe
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\Pisti.pdb
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\bin\Debug\MySql.Data.xml
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csprojResolveAssemblyReference.cache
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Achievements.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.InputName.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Leaderboard.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Menu.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Pisti.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.Properties.Resources.resources
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csproj.GenerateResource.Cache
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.exe
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.pdb
+\\pfa.education\utccstudentusers$\kcimen14\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.CardSelector.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Debug\Pisti.CardSelector.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Debug\Pisti.exe.config
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Debug\Pisti.pdb
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Debug\MySql.Data.xml
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.Achievements.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.CardSelector.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.InputName.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.Leaderboard.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.Menu.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.Pisti.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Debug\Pisti.pdb
+C:\Users\MONSTER\Desktop\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.exe
+C:\Users\MONSTER\Desktop\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.pdb
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\bin\Debug\Pisti.exe.config
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\bin\Debug\Pisti.exe
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\bin\Debug\Pisti.pdb
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\bin\Debug\MySql.Data.xml
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.csprojAssemblyReference.cache
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.Achievements.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.CardSelector.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.InputName.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.Leaderboard.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.Menu.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.Pisti.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.Properties.Resources.resources
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.csproj.GenerateResource.cache
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.csproj.CopyComplete
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.exe
+G:\Kuzey\Projects\Pisti Development - CS Project\Final\Pisti Uncommented\Pisti\obj\Debug\Pisti.pdb

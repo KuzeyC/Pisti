@@ -1,0 +1,27 @@
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.Achievements.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.InputName.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.Leaderboard.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.Menu.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.Pisti.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti - Finish Form App\Pisti\obj\Release\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.Achievements.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.CardSelector.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.InputName.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.Leaderboard.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.Menu.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.Pisti.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Release\Pisti.exe.config
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Release\Pisti.exe
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Release\Pisti.pdb
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Release\MySql.Data.dll
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\bin\Release\MySql.Data.xml
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.exe
+C:\Users\MONSTER\Desktop\Computer Science Project\Pisti\Pisti\obj\Release\Pisti.pdb
