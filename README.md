@@ -12,9 +12,9 @@ When these cards are played, the game deals a further batch of four cards each.
 When everyone has played their last four cards, any cards remaining in the discard pile are given to the last player that made a capture.
 The game is now over, and the players score for the cards they have captured.
 
-Each Jack = 1 point.
-Each Ace = 1 point.
-2 of Clubs = 2 points.
-10 of Diamonds = 3 points.
-Majority of cards = 3 points.
-Each Pişti = 10 points.
+Each Jack = 1 point.<br />
+Each Ace = 1 point.<br />
+2 of Clubs = 2 points.<br />
+10 of Diamonds = 3 points.<br />
+Majority of cards = 3 points.<br />
+Each Pisti = 10 points.<br />
